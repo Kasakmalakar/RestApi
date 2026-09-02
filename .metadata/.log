@@ -1,0 +1,1957 @@
+!SESSION 2026-09-02 10:56:54.042 -----------------------------------------------
+eclipse.buildId=4.38.0.202512052019
+java.version=25.0.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.springtools
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.springtools
+
+This is a continuation of log file D:\RestAPI\.metadata\.bak_5.log
+Created Time: 2026-09-02 17:50:28.140
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.140
+!MESSAGE 17:50:28.138 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.153
+!MESSAGE 17:50:28.152 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.166
+!MESSAGE 17:50:28.165 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.171
+!MESSAGE 17:50:28.171 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 242
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.180
+!MESSAGE 17:50:28.180 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.191
+!MESSAGE 17:50:28.191 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.192
+!MESSAGE 17:50:28.191 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.201
+!MESSAGE 17:50:28.200 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 243
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.210
+!MESSAGE 17:50:28.209 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.221
+!MESSAGE 17:50:28.220 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.221
+!MESSAGE 17:50:28.220 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.231
+!MESSAGE 17:50:28.230 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 244
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.239
+!MESSAGE 17:50:28.239 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.239
+!MESSAGE 17:50:28.239 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.252
+!MESSAGE 17:50:28.252 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.252
+!MESSAGE 17:50:28.252 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.259
+!MESSAGE 17:50:28.258 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 245
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.314
+!MESSAGE 17:50:28.267 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.316
+!MESSAGE 17:50:28.315 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.320
+!MESSAGE 17:50:28.317 [pool-5-thread-109] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.321
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.322
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.323
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.324
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.333
+!MESSAGE 17:50:28.330 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.335
+!MESSAGE 17:50:28.334 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.335
+!MESSAGE 17:50:28.335 [pool-5-thread-109] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.335
+!MESSAGE 17:50:28.335 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.356
+!MESSAGE 17:50:28.344 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.357
+!MESSAGE 17:50:28.344 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.357
+!MESSAGE 17:50:28.344 [pool-3-thread-532] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.357
+!MESSAGE 17:50:28.348 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.369
+!MESSAGE 17:50:28.368 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.369
+!MESSAGE 17:50:28.368 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.369
+!MESSAGE 17:50:28.368 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.377
+!MESSAGE 17:50:28.376 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 249
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.387
+!MESSAGE 17:50:28.386 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.400
+!MESSAGE 17:50:28.398 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.400
+!MESSAGE 17:50:28.400 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.407
+!MESSAGE 17:50:28.406 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.416
+!MESSAGE 17:50:28.415 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.429
+!MESSAGE 17:50:28.427 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.429
+!MESSAGE 17:50:28.427 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.436
+!MESSAGE 17:50:28.435 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.444
+!MESSAGE 17:50:28.443 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.466
+!MESSAGE 17:50:28.465 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE p(LocalCache.java:3467)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.postWriteCleanup(LocalCache.java:3443)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE 	at com.google.common.cache.LocalCache$Segment.remove(LocalCache.java:3077)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE 	at com.google.common.cache.LocalCache.remove(LocalCache.java:4251)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE 	at com.google.common.cache.LocalCache$LocalManualCache.invalidate(LocalCache.java:4891)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.467
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.invalidateCuForJavaFile(CompilationUnitCache.java:383)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.springframework.ide.vscode.boot.java.utils.CompilationUnitCache.lambda$new$0(CompilationUnitCache.java:130)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ListenerList.fire(ListenerList.java:29)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.SimpleTextDocumentService.didChange(SimpleTextDocumentService.java:210)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.468
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at org.springframework.ide.vscode.commons.languageserver.util.ParentProcessWatcher.lambda$apply$0(ParentProcessWatcher.java:129)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.469
+!MESSAGE 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE 	at java.base/java.lang.Thread.run(Thread.java:1474)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE Caused by: java.util.concurrent.CancellationException: null
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE 	at java.base/java.util.concurrent.CompletableFuture.cancel(CompletableFuture.java:2552)
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.470
+!MESSAGE 	... 26 common frames omitted
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.475
+!MESSAGE 17:50:28.473 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.494
+!MESSAGE 17:50:28.492 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.494
+!MESSAGE 17:50:28.492 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.506
+!MESSAGE 17:50:28.506 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.525
+!MESSAGE 17:50:28.522 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.525
+!MESSAGE 17:50:28.525 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.534
+!MESSAGE 17:50:28.533 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.544
+!MESSAGE 17:50:28.544 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.553
+!MESSAGE 17:50:28.553 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 255
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.563
+!MESSAGE 17:50:28.561 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.584
+!MESSAGE 17:50:28.583 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.603
+!MESSAGE 17:50:28.602 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.603
+!MESSAGE 17:50:28.602 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.613
+!MESSAGE 17:50:28.612 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 257
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.622
+!MESSAGE 17:50:28.622 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.643
+!MESSAGE 17:50:28.634 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.654
+!MESSAGE 17:50:28.654 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.654
+!MESSAGE 17:50:28.654 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.680
+!MESSAGE 17:50:28.672 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.691
+!MESSAGE 17:50:28.691 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.701
+!MESSAGE 17:50:28.701 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.731
+!MESSAGE 17:50:28.710 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.741
+!MESSAGE 17:50:28.741 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.741
+!MESSAGE 17:50:28.741 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.771
+!MESSAGE 17:50:28.760 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.790
+!MESSAGE 17:50:28.790 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.816
+!MESSAGE 17:50:28.816 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.816
+!MESSAGE 17:50:28.816 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.819
+!MESSAGE 17:50:28.818 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 264
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.852
+!MESSAGE 17:50:28.852 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.881
+!MESSAGE 17:50:28.861 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.881
+!MESSAGE 17:50:28.879 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.905
+!MESSAGE 17:50:28.905 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.908
+!MESSAGE 17:50:28.908 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.928
+!MESSAGE 17:50:28.918 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.929
+!MESSAGE 17:50:28.928 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.937
+!MESSAGE 17:50:28.936 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 268
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.947
+!MESSAGE 17:50:28.946 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.959
+!MESSAGE 17:50:28.957 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.959
+!MESSAGE 17:50:28.959 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.966
+!MESSAGE 17:50:28.965 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.975
+!MESSAGE 17:50:28.974 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.995
+!MESSAGE 17:50:28.987 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.996
+!MESSAGE 17:50:28.987 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:28.996
+!MESSAGE 17:50:28.987 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.034
+!MESSAGE 17:50:29.034 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.055
+!MESSAGE 17:50:29.054 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.086
+!MESSAGE 17:50:29.063 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.101
+!MESSAGE 17:50:29.101 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.114
+!MESSAGE 17:50:29.114 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.114
+!MESSAGE 17:50:29.114 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.115
+!MESSAGE 17:50:29.114 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.115
+!MESSAGE 17:50:29.114 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.116
+!MESSAGE 17:50:29.115 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.145
+!MESSAGE 17:50:29.130 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.171
+!MESSAGE 17:50:29.147 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.171
+!MESSAGE 17:50:29.169 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.171
+!MESSAGE 17:50:29.170 [pool-3-thread-535] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:29.619
+!MESSAGE 17:50:29.617 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.070
+!MESSAGE 17:50:31.069 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.090
+!MESSAGE 17:50:31.090 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.101
+!MESSAGE 17:50:31.100 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.586
+!MESSAGE 17:50:31.558 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.603
+!MESSAGE 17:50:31.603 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.605
+!MESSAGE 17:50:31.605 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.615
+!MESSAGE 17:50:31.614 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.662
+!MESSAGE 17:50:31.642 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.672
+!MESSAGE 17:50:31.672 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.682
+!MESSAGE 17:50:31.681 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.691
+!MESSAGE 17:50:31.691 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.703
+!MESSAGE 17:50:31.702 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.733
+!MESSAGE 17:50:31.733 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.752
+!MESSAGE 17:50:31.751 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.761
+!MESSAGE 17:50:31.761 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 283
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.782
+!MESSAGE 17:50:31.782 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.799
+!MESSAGE 17:50:31.790 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.849
+!MESSAGE 17:50:31.808 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.858
+!MESSAGE 17:50:31.857 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.868
+!MESSAGE 17:50:31.868 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.880
+!MESSAGE 17:50:31.880 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.938
+!MESSAGE 17:50:31.907 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.967
+!MESSAGE 17:50:31.949 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.975
+!MESSAGE 17:50:31.975 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.987
+!MESSAGE 17:50:31.987 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.988
+!MESSAGE 17:50:31.987 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:31.998
+!MESSAGE 17:50:31.996 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 291
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.007
+!MESSAGE 17:50:32.006 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.027
+!MESSAGE 17:50:32.027 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.036
+!MESSAGE 17:50:32.035 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.036
+!MESSAGE 17:50:32.035 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.049
+!MESSAGE 17:50:32.049 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.057
+!MESSAGE 17:50:32.056 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.070
+!MESSAGE 17:50:32.069 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.081
+!MESSAGE 17:50:32.079 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.081
+!MESSAGE 17:50:32.081 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.086
+!MESSAGE 17:50:32.086 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.117
+!MESSAGE 17:50:32.116 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.147
+!MESSAGE 17:50:32.146 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.169
+!MESSAGE 17:50:32.155 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.169
+!MESSAGE 17:50:32.169 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.192
+!MESSAGE 17:50:32.192 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.195
+!MESSAGE 17:50:32.193 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.195
+!MESSAGE 17:50:32.194 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.393
+!MESSAGE 17:50:32.376 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.410
+!MESSAGE 17:50:32.408 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.450
+!MESSAGE 17:50:32.448 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.451
+!MESSAGE 17:50:32.450 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.863
+!MESSAGE 17:50:32.861 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 298
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.878
+!MESSAGE 17:50:32.878 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.890
+!MESSAGE 17:50:32.889 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.900
+!MESSAGE 17:50:32.899 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.920
+!MESSAGE 17:50:32.908 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.920
+!MESSAGE 17:50:32.909 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.939
+!MESSAGE 17:50:32.927 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.949
+!MESSAGE 17:50:32.949 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.956
+!MESSAGE 17:50:32.956 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.978
+!MESSAGE 17:50:32.978 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:32.987
+!MESSAGE 17:50:32.987 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.008
+!MESSAGE 17:50:32.999 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.008
+!MESSAGE 17:50:32.999 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.039
+!MESSAGE 17:50:33.018 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.040
+!MESSAGE 17:50:33.039 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.055
+!MESSAGE 17:50:33.055 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:33.079
+!MESSAGE 17:50:33.078 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:37.261
+!MESSAGE 17:50:33.081 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:37.261
+!MESSAGE 17:50:33.542 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:37.261
+!MESSAGE 17:50:37.260 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:37.262
+!MESSAGE 17:50:37.260 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.570
+!MESSAGE 17:50:39.569 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.587
+!MESSAGE 17:50:39.586 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.602
+!MESSAGE 17:50:39.601 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.603
+!MESSAGE 17:50:39.601 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.610
+!MESSAGE 17:50:39.610 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:39.613
+!MESSAGE 17:50:39.612 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.696
+!MESSAGE 17:50:40.074 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.729
+!MESSAGE 17:50:44.728 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.744
+!MESSAGE 17:50:44.743 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.744
+!MESSAGE 17:50:44.743 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.753
+!MESSAGE 17:50:44.753 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.757
+!MESSAGE 17:50:44.755 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:44.757
+!MESSAGE 17:50:44.756 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.341
+!MESSAGE 17:50:45.200 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.342
+!MESSAGE 17:50:50.340 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 307
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.375
+!MESSAGE 17:50:50.373 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.395
+!MESSAGE 17:50:50.393 [pool-5-thread-108] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.395
+!MESSAGE 17:50:50.393 [pool-3-thread-533] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:50:50.404
+!MESSAGE 17:50:50.404 [pool-3-thread-534] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:51:58.934
+!MESSAGE 17:50:50.845 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:51:58.934
+!MESSAGE 17:51:58.934 [pool-5-thread-110] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:51:58.934
+!MESSAGE 17:51:58.934 [pool-3-thread-536] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:53:31.827
+!MESSAGE 17:51:58.934 [pool-3-thread-536] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:53:31.827
+!MESSAGE 17:51:58.934 [pool-3-thread-536] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:54:35.677
+!MESSAGE 17:54:35.672 [pool-3-thread-540] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 17:54:35.836
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 17:54:35.836
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 17:54:35.837
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 17:54:35.837
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:54:35.872
+!MESSAGE 17:54:35.859 [Simple-Language-Server main thread] INFO  o.s.i.v.c.l.u.SimpleWorkspaceService - file changed event: [file:///D:/RestAPI/StudentManagement/target/classes/application.properties, file:///D:/RestAPI/StudentManagement/target/classes/com/info/util/JwtAuthenticationFilter.class]
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:54:36.120
+!MESSAGE 17:54:36.119 [pool-3-thread-540] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:54:36.164
+!MESSAGE 17:54:36.164 [pool-5-thread-112] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:54:36.168
+!MESSAGE 17:54:36.166 [pool-3-thread-540] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:55:48.207
+!MESSAGE 17:55:48.207 [pool-3-thread-542] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:59:02.448
+!MESSAGE 17:55:48.219 [pool-5-thread-113] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 17:59:02.448
+!MESSAGE 17:59:02.448 [pool-5-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:02:41.819
+!MESSAGE 17:59:02.468 [pool-5-thread-114] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:02:41.819
+!MESSAGE 17:59:02.470 [pool-3-thread-545] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:02:41.819
+!MESSAGE 18:02:41.819 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:02:41.819
+!MESSAGE 18:02:41.819 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:02:54.824
+!MESSAGE 18:02:54.824 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:04.447
+!MESSAGE 18:02:54.849 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:04.447
+!MESSAGE 18:02:54.854 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:04.447
+!MESSAGE 18:03:04.447 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.046
+!MESSAGE 18:03:06.046 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.282
+!MESSAGE 18:03:06.280 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.339
+!MESSAGE 18:03:06.338 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.339
+!MESSAGE 18:03:06.338 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.342
+!MESSAGE 18:03:06.340 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.342
+!MESSAGE 18:03:06.342 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:06.790
+!MESSAGE 18:03:06.789 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.133
+!MESSAGE 18:03:06.794 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.133
+!MESSAGE 18:03:07.133 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.742
+!MESSAGE 18:03:07.741 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 280
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.811
+!MESSAGE 18:03:07.774 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.811
+!MESSAGE 18:03:07.787 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.811
+!MESSAGE 18:03:07.811 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.813
+!MESSAGE 18:03:07.812 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.813
+!MESSAGE 18:03:07.813 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:07.813
+!MESSAGE 18:03:07.813 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:08.250
+!MESSAGE 18:03:08.246 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:08.251
+!MESSAGE 18:03:08.250 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java done in 4ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:08.566
+!MESSAGE 18:03:08.564 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:08.567
+!MESSAGE 18:03:08.566 [pool-3-thread-547] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.493
+!MESSAGE 18:03:16.048 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.494
+!MESSAGE 18:03:16.048 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.494
+!MESSAGE 18:03:16.048 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.495
+!MESSAGE 18:03:19.494 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 282
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.562
+!MESSAGE 18:03:19.562 [pool-3-thread-546] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.563
+!MESSAGE 18:03:19.563 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.583
+!MESSAGE 18:03:19.583 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.583
+!MESSAGE 18:03:19.583 [pool-3-thread-550] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.586
+!MESSAGE 18:03:19.585 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.999
+!MESSAGE 18:03:19.587 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:19.999
+!MESSAGE 18:03:19.998 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:30.536
+!MESSAGE 18:03:20.004 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:30.537
+!MESSAGE 18:03:20.196 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:30.537
+!MESSAGE 18:03:20.197 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:30.538
+!MESSAGE 18:03:20.989 [pool-3-thread-548] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:34.278
+!MESSAGE 18:03:34.276 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:03:34.279
+!MESSAGE 18:03:34.276 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:35.195
+!MESSAGE 18:03:41.727 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/CustomUserDetailService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:35.195
+!MESSAGE 18:03:41.729 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/CustomUserDetailService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:35.195
+!MESSAGE 18:03:41.729 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/CustomUserDetailService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:35.195
+!MESSAGE 18:04:35.195 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:35.801
+!MESSAGE 18:04:35.800 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:36.021
+!MESSAGE 18:04:36.017 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:36.104
+!MESSAGE 18:04:36.104 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:36.146
+!MESSAGE 18:04:36.111 [pool-3-thread-548] INFO  o.s.i.v.c.l.c.VscodeCompletionEngineAdapter - Got 13 completions in 25ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:36.147
+!MESSAGE 18:04:36.146 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.136
+!MESSAGE 18:04:36.197 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.136
+!MESSAGE 18:04:36.998 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.136
+!MESSAGE 18:04:36.999 [pool-3-thread-549] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.143
+!MESSAGE 18:04:42.141 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.208
+!MESSAGE 18:04:42.151 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.245
+!MESSAGE 18:04:42.244 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.246
+!MESSAGE 18:04:42.246 [pool-3-thread-552] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.265
+!MESSAGE 18:04:42.251 [pool-3-thread-555] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.265
+!MESSAGE 18:04:42.265 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.267
+!MESSAGE 18:04:42.267 [pool-3-thread-548] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.283
+!MESSAGE 18:04:42.283 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.286
+!MESSAGE 18:04:42.285 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:42.713
+!MESSAGE 18:04:42.712 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:43.140
+!MESSAGE 18:04:42.715 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:43.144
+!MESSAGE 18:04:43.142 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:43.145
+!MESSAGE 18:04:43.144 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:45.948
+!MESSAGE 18:04:45.947 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:45.950
+!MESSAGE 18:04:45.948 [pool-3-thread-555] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.340
+!MESSAGE 18:04:59.339 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.399
+!MESSAGE 18:04:59.399 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.414
+!MESSAGE 18:04:59.413 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.414
+!MESSAGE 18:04:59.413 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.416
+!MESSAGE 18:04:59.415 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:04:59.417
+!MESSAGE 18:04:59.417 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:00.176
+!MESSAGE 18:04:59.843 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:00.177
+!MESSAGE 18:04:59.843 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:00.177
+!MESSAGE 18:05:00.174 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:00.177
+!MESSAGE 18:05:00.176 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.094
+!MESSAGE 18:05:04.126 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.094
+!MESSAGE 18:05:18.093 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 289
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.112
+!MESSAGE 18:05:18.112 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.159
+!MESSAGE 18:05:18.114 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.159
+!MESSAGE 18:05:18.115 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.159
+!MESSAGE 18:05:18.159 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.170
+!MESSAGE 18:05:18.168 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.170
+!MESSAGE 18:05:18.170 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:18.599
+!MESSAGE 18:05:18.598 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:19.082
+!MESSAGE 18:05:18.601 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:19.082
+!MESSAGE 18:05:19.080 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:19.082
+!MESSAGE 18:05:19.081 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:22.830
+!MESSAGE 18:05:22.829 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:22.830
+!MESSAGE 18:05:22.830 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:51.550
+!MESSAGE 18:05:51.550 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:51.550
+!MESSAGE 18:05:51.550 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.306
+!MESSAGE 18:05:51.550 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.307
+!MESSAGE 18:05:51.550 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.341
+!MESSAGE 18:05:57.340 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.357
+!MESSAGE 18:05:57.355 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.358
+!MESSAGE 18:05:57.357 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.359
+!MESSAGE 18:05:57.358 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.811
+!MESSAGE 18:05:57.810 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.811
+!MESSAGE 18:05:57.811 [Reconciler-1] INFO  o.s.i.v.b.j.r.JdtReconciler - reconciling (JDT): file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:05:57.811
+!MESSAGE 18:05:57.811 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.599
+!MESSAGE 18:05:58.227 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.600
+!MESSAGE 18:06:00.574 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change message work done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.616
+!MESSAGE 18:06:00.614 [pool-5-thread-116] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.616
+!MESSAGE 18:06:00.614 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.669
+!MESSAGE 18:06:00.668 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.671
+!MESSAGE 18:06:00.670 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:00.671
+!MESSAGE 18:06:00.671 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:01.501
+!MESSAGE 18:06:01.080 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:02.806
+!MESSAGE 18:06:01.502 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:02.807
+!MESSAGE 18:06:02.806 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:02.810
+!MESSAGE 18:06:02.808 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:02.810
+!MESSAGE 18:06:02.808 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:06:41.361
+!MESSAGE 18:06:41.361 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.581
+!MESSAGE 18:06:41.361 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.581
+!MESSAGE 18:06:41.361 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.581
+!MESSAGE 18:06:46.452 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.597
+!MESSAGE 18:07:47.597 [pool-5-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.597
+!MESSAGE 18:07:47.597 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.612
+!MESSAGE 18:07:47.597 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:47.612
+!MESSAGE 18:07:47.612 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.365
+!MESSAGE 18:07:50.365 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.396
+!MESSAGE 18:07:50.396 [pool-5-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.396
+!MESSAGE 18:07:50.396 [pool-5-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.396
+!MESSAGE 18:07:50.396 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.396
+!MESSAGE 18:07:50.396 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:50.458
+!MESSAGE 18:07:50.458 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.255
+!MESSAGE 18:07:50.458 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.255
+!MESSAGE 18:07:50.458 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.255
+!MESSAGE 18:07:51.255 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.255
+!MESSAGE 18:07:51.255 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.255
+!MESSAGE 18:07:51.255 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.442
+!MESSAGE 18:07:51.442 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 293
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.473
+!MESSAGE 18:07:51.473 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.489
+!MESSAGE 18:07:51.489 [pool-5-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.489
+!MESSAGE 18:07:51.489 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.504
+!MESSAGE 18:07:51.504 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.504
+!MESSAGE 18:07:51.504 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:51.504
+!MESSAGE 18:07:51.504 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.275
+!MESSAGE 18:07:51.954 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.275
+!MESSAGE 18:07:56.270 [pool-3-thread-551] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [didSave event]: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.418
+!MESSAGE 18:07:56.418 [pool-6-thread-1] INFO  o.s.i.v.b.j.utils.SpringIndexerJava - Start scanning affected files for types [com.info.SecurityConfig]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:07:56.430
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:07:56.430
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:07:56.430
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:07:56.431
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.467
+!MESSAGE 18:07:56.450 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/RestAPI/StudentManagement/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.685
+!MESSAGE 18:07:56.684 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.741
+!MESSAGE 18:07:56.741 [pool-5-thread-117] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.748
+!MESSAGE 18:07:56.743 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:07:56.748
+!MESSAGE 18:07:56.743 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:08:03.574
+!MESSAGE 18:08:03.573 [pool-3-thread-551] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:08:03.574
+!MESSAGE 18:08:03.573 [pool-3-thread-553] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:10:13.570
+!MESSAGE 18:09:38.118 [pool-3-thread-557] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:10:13.570
+!MESSAGE 18:09:38.119 [pool-3-thread-558] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:10:13.570
+!MESSAGE 18:10:13.570 [pool-3-thread-557] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:10:13.572
+!MESSAGE 18:10:13.571 [pool-3-thread-558] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:11:18.294
+!MESSAGE 18:11:18.294 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/Student.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:11:18.298
+!MESSAGE 18:11:18.294 [pool-3-thread-560] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/Student.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:06.839
+!MESSAGE 18:12:06.839 [pool-5-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/StudentRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:06.848
+!MESSAGE 18:12:06.848 [pool-5-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/StudentRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:06.850
+!MESSAGE 18:12:06.849 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/StudentRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:06.851
+!MESSAGE 18:12:06.850 [pool-3-thread-560] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/StudentRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:13.049
+!MESSAGE 18:12:13.049 [pool-5-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:14.731
+!MESSAGE 18:12:13.051 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:14.731
+!MESSAGE 18:12:13.053 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/UserService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:14.731
+!MESSAGE 18:12:14.728 [pool-5-thread-119] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/StudentService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:14.731
+!MESSAGE 18:12:14.730 [pool-3-thread-560] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/StudentService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:46.777
+!MESSAGE 18:12:46.757 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:46.778
+!MESSAGE 18:12:46.777 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:54.127
+!MESSAGE 18:12:46.779 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:54.127
+!MESSAGE 18:12:46.798 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:54.739
+!MESSAGE 18:12:54.738 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:54.740
+!MESSAGE 18:12:54.738 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:12:54.740
+!MESSAGE 18:12:54.739 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:14:14.738
+!MESSAGE 18:13:49.024 [pool-5-thread-120] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:14:14.739
+!MESSAGE 18:13:49.032 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:14:14.739
+!MESSAGE 18:13:50.604 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:14:14.745
+!MESSAGE 18:14:14.745 [pool-5-thread-120] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:15:12.429
+!MESSAGE 18:14:14.746 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:15:12.429
+!MESSAGE 18:14:14.747 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/UserRepository.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:15:57.112
+!MESSAGE 18:15:36.077 [pool-3-thread-559] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:15:57.113
+!MESSAGE 18:15:57.112 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:26.985
+!MESSAGE 18:16:01.674 [pool-3-thread-559] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:29.472
+!MESSAGE 18:28:27.066 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:29.473
+!MESSAGE 18:28:29.472 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:29.473
+!MESSAGE 18:28:29.472 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:32.278
+!MESSAGE 18:28:32.278 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:32.278
+!MESSAGE 18:28:32.278 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:32.278
+!MESSAGE 18:28:32.278 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:51.667
+!MESSAGE 18:28:51.666 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:51.668
+!MESSAGE 18:28:51.667 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:51.668
+!MESSAGE 18:28:51.667 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:28:55.843
+!MESSAGE 18:28:55.842 [pool-5-thread-121] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:28:55.845 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:28:55.847 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:29:39.889 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:29:46.530 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:30:06.678 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:30:06.679 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:30:10.379
+!MESSAGE 18:30:10.379 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:21.009
+!MESSAGE 18:31:04.255 [pool-5-thread-123] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:21.009
+!MESSAGE 18:31:16.170 [pool-3-thread-562] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:21.010
+!MESSAGE 18:31:21.009 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:46.256
+!MESSAGE 18:31:46.251 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:46.256
+!MESSAGE 18:31:46.256 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:46.383
+!MESSAGE 18:31:46.261 [pool-5-thread-123] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:46.383
+!MESSAGE 18:31:46.261 [pool-3-thread-563] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:31:46.383
+!MESSAGE 18:31:46.383 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:03.936
+!MESSAGE 18:31:46.758 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:03.937
+!MESSAGE 18:32:03.936 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:03.937
+!MESSAGE 18:32:03.936 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:13.575
+!MESSAGE 18:32:13.575 [pool-5-thread-123] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:13.589
+!MESSAGE 18:32:13.587 [pool-5-thread-123] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:51.989
+!MESSAGE 18:32:51.988 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:51.990
+!MESSAGE 18:32:51.988 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:55.246
+!MESSAGE 18:32:55.246 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:32:55.247
+!MESSAGE 18:32:55.247 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:13.603
+!MESSAGE 18:33:13.603 [pool-5-thread-124] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:13.616
+!MESSAGE 18:33:13.616 [pool-5-thread-124] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:20.134
+!MESSAGE 18:33:20.134 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:20.135
+!MESSAGE 18:33:20.134 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:20.135
+!MESSAGE 18:33:20.134 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:20.135
+!MESSAGE 18:33:20.134 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:46.240
+!MESSAGE 18:33:22.074 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:46.241
+!MESSAGE 18:33:22.076 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:33:46.241
+!MESSAGE 18:33:46.240 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:01.123
+!MESSAGE 18:34:01.122 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:01.123
+!MESSAGE 18:34:01.123 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:01.124
+!MESSAGE 18:34:01.123 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:15.487
+!MESSAGE 18:34:15.486 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:15.487
+!MESSAGE 18:34:15.487 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:15.499
+!MESSAGE 18:34:15.498 [pool-5-thread-125] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:34:15.499
+!MESSAGE 18:34:15.498 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.013
+!MESSAGE 18:34:18.786 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.013
+!MESSAGE 18:34:18.786 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.014
+!MESSAGE 18:34:18.786 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.015
+!MESSAGE 18:34:18.786 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.015
+!MESSAGE 18:35:31.312 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:34.016
+!MESSAGE 18:35:31.328 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 18ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:49.201
+!MESSAGE 18:35:49.198 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:49.264
+!MESSAGE 18:35:49.264 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:49.264
+!MESSAGE 18:35:49.264 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:49.266
+!MESSAGE 18:35:49.266 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:51.757
+!MESSAGE 18:35:49.268 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:51.758
+!MESSAGE 18:35:49.269 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:51.758
+!MESSAGE 18:35:51.754 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 309
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:51.791
+!MESSAGE 18:35:51.791 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.242
+!MESSAGE 18:35:52.240 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 310
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.269
+!MESSAGE 18:35:52.263 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.277
+!MESSAGE 18:35:52.277 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.277
+!MESSAGE 18:35:52.277 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.290
+!MESSAGE 18:35:52.289 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.291
+!MESSAGE 18:35:52.290 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.298
+!MESSAGE 18:35:52.298 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.307
+!MESSAGE 18:35:52.307 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.307
+!MESSAGE 18:35:52.307 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.327
+!MESSAGE 18:35:52.319 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.327
+!MESSAGE 18:35:52.319 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.327
+!MESSAGE 18:35:52.321 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.348
+!MESSAGE 18:35:52.348 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Parsed successfully CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.356
+!MESSAGE 18:35:52.356 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 314
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.364
+!MESSAGE 18:35:52.364 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.385
+!MESSAGE 18:35:52.375 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.386
+!MESSAGE 18:35:52.375 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.412
+!MESSAGE 18:35:52.395 [pool-5-thread-126] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.412
+!MESSAGE 18:35:52.412 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.415
+!MESSAGE 18:35:52.414 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - change arrived: 316
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.439
+!MESSAGE 18:35:52.423 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.439
+!MESSAGE 18:35:52.438 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.451
+!MESSAGE 18:35:52.450 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.451
+!MESSAGE 18:35:52.450 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:52.451
+!MESSAGE 18:35:52.450 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:53.904
+!MESSAGE 18:35:52.922 [Reconciler-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:54.045
+!MESSAGE 18:35:53.913 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:35:56.336
+!MESSAGE Direct modification of compileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:35:56.337
+!MESSAGE Direct modification of compileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:35:56.337
+!MESSAGE Direct modification of testCompileSourceRoots through clear() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2026-09-02 18:35:56.337
+!MESSAGE Direct modification of testCompileSourceRoots through add() is deprecated and will not work in Maven 4.0.0. Please use the add/remove methods instead. If you're using a plugin that causes this warning, please upgrade to the latest version and report an issue if the warning persists. To disable these warnings, set -Dmaven.project.sourceRoots.warningsDisabled=true on the command line, in the .mvn/maven.config file, or in project POM properties.
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:56.367
+!MESSAGE 18:35:56.351 [Simple-Language-Server main thread] INFO  o.s.i.v.boot.app.SpringSymbolIndex - Update document [file changed]: file:///D:/RestAPI/StudentManagement/target/classes/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:56.906
+!MESSAGE 18:35:56.863 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:56.906
+!MESSAGE 18:35:56.906 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:56.910
+!MESSAGE 18:35:56.908 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:35:56.910
+!MESSAGE 18:35:56.908 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:36:18.350
+!MESSAGE 18:36:18.350 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 1ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:36:39.014
+!MESSAGE 18:36:39.013 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:18.954
+!MESSAGE 18:37:18.954 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:18.973
+!MESSAGE 18:37:18.973 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:25.197
+!MESSAGE 18:37:25.197 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:36.151
+!MESSAGE 18:37:27.619 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:36.151
+!MESSAGE 18:37:27.620 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:37:36.151
+!MESSAGE 18:37:36.150 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:05.168
+!MESSAGE 18:38:05.168 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:26.291
+!MESSAGE 18:38:05.188 [pool-5-thread-127] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:26.291
+!MESSAGE 18:38:05.190 [pool-3-thread-562] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:26.291
+!MESSAGE 18:38:26.291 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:29.748
+!MESSAGE 18:38:26.295 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:29.748
+!MESSAGE 18:38:26.310 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:48.650
+!MESSAGE 18:38:48.649 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:48.651
+!MESSAGE 18:38:48.649 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:48.651
+!MESSAGE 18:38:48.650 [pool-3-thread-564] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:38:48.652
+!MESSAGE 18:38:48.650 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:41:38.370
+!MESSAGE 18:38:57.745 [pool-3-thread-564] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:41:39.809
+!MESSAGE 18:41:39.808 [pool-3-thread-566] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:41:40.425
+!MESSAGE 18:41:40.424 [pool-3-thread-566] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:41.060
+!MESSAGE 18:44:57.126 [pool-5-thread-129] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:41.060
+!MESSAGE 18:46:21.752 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:41.060
+!MESSAGE 18:46:41.059 [pool-3-thread-571] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:41.060
+!MESSAGE 18:46:41.059 [pool-3-thread-571] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:43.273
+!MESSAGE 18:46:43.272 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:43.273
+!MESSAGE 18:46:43.272 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:48.679
+!MESSAGE 18:46:43.276 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:46:48.679
+!MESSAGE 18:46:48.679 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:00.608
+!MESSAGE 18:47:00.608 [pool-3-thread-571] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:02.915
+!MESSAGE 18:47:02.914 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:02.915
+!MESSAGE 18:47:02.914 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:02.915
+!MESSAGE 18:47:02.915 [pool-3-thread-571] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:17.166
+!MESSAGE 18:47:03.575 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:47:58.681
+!MESSAGE 18:47:52.406 [pool-5-thread-131] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:48:16.084
+!MESSAGE 18:48:16.084 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:48:48.201
+!MESSAGE 18:48:32.193 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:48:50.908
+!MESSAGE 18:48:48.217 [pool-5-thread-131] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Finished parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:48:50.909
+!MESSAGE 18:48:48.217 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:48:52.027
+!MESSAGE 18:48:52.025 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:19.237
+!MESSAGE 18:49:12.291 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:19.238
+!MESSAGE 18:49:19.237 [pool-3-thread-570] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 2ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:45.356
+!MESSAGE 18:49:40.397 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:45.356
+!MESSAGE 18:49:40.399 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:48.507
+!MESSAGE 18:49:45.513 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:48.507
+!MESSAGE 18:49:48.490 [pool-5-thread-132] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Started parsing CU for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:49:48.507
+!MESSAGE 18:49:48.507 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:50:15.308
+!MESSAGE 18:50:15.308 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:50:15.308
+!MESSAGE 18:50:15.308 [pool-3-thread-570] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:50:15.309
+!MESSAGE 18:50:15.308 [pool-3-thread-571] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.183
+!MESSAGE 18:52:10.348 [pool-3-thread-572] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.183
+!MESSAGE 18:52:36.003 [pool-3-thread-572] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.184
+!MESSAGE 18:52:36.003 [pool-3-thread-572] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.184
+!MESSAGE 18:52:36.003 [pool-3-thread-572] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.184
+!MESSAGE 18:52:36.003 [pool-3-thread-572] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - hover computation done in 0ms
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.184
+!MESSAGE 18:52:36.183 [pool-3-thread-573] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: work item submitted for doc file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:36.184
+!MESSAGE 18:52:36.183 [pool-3-thread-573] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: start work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 18:52:37.404
+!MESSAGE 18:52:37.404 [pool-3-thread-572] INFO  o.s.i.v.b.j.u.CompilationUnitCache - CU Cache: end work on AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.102
+!MESSAGE [Info] Document is null for editor: pom.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.102
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/pom.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.242
+!MESSAGE [Info] Document is null for editor: Student.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.242
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/Student.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 19:01:54.273
+!MESSAGE 19:01:54.180 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/pom.xml
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.289
+!MESSAGE [Info] Document is null for editor: application.properties
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.289
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/resources/application.properties
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.336
+!MESSAGE [Info] Document is null for editor: StudentRepository.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.336
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/StudentRepository.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.383
+!MESSAGE [Info] Document is null for editor: StudentService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.383
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/StudentService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.430
+!MESSAGE [Info] Document is null for editor: StudentDTO.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.430
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/dto/StudentDTO.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.445
+!MESSAGE [Info] Document is null for editor: StudentController.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.445
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 19:01:54.492
+!MESSAGE 19:01:54.320 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/resources/application.properties
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 19:01:54.492
+!MESSAGE 19:01:54.414 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/StudentService.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 19:01:54.492
+!MESSAGE 19:01:54.492 [pool-14-thread-1] INFO  o.s.i.v.c.l.u.SimpleTextDocumentService - Closed: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/StudentController.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.508
+!MESSAGE [Info] Document is null for editor: JwtUtill.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.508
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtUtill.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.539
+!MESSAGE [Info] Document is null for editor: User.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.539
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/entity/User.java
+
+!ENTRY org.eclipse.lsp4e 4 0 2026-09-02 19:01:54.570
+!MESSAGE 19:01:54.523 [pool-14-thread-1] INFO  o.s.i.v.b.j.u.CompilationUnitCache - Invalidate AST for file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtUtill.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.586
+!MESSAGE [Info] Document is null for editor: UserRepository.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.586
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/repo/UserRepository.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.633
+!MESSAGE [Info] Document is null for editor: UserService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.633
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/UserService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.680
+!MESSAGE [Info] Document is null for editor: UserDTO.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.680
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/dto/UserDTO.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.711
+!MESSAGE [Info] Document is null for editor: UserController.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.711
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/controller/UserController.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.742
+!MESSAGE [Info] Document is null for editor: CustomUserDetailService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.742
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/service/CustomUserDetailService.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.789
+!MESSAGE [Info] Document is null for editor: AuthResponse.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.789
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/dto/AuthResponse.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.805
+!MESSAGE [Info] Document is null for editor: JwtAuthenticationFilter.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.805
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/util/JwtAuthenticationFilter.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.836
+!MESSAGE [Info] Document is null for editor: StudentManagementApplication.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.836
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/StudentManagementApplication.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.867
+!MESSAGE [Info] Document is null for editor: SecurityConfig.java
+
+!ENTRY com.microsoft.copilot.eclipse 1 0 2026-09-02 19:01:54.867
+!MESSAGE [Info] Completion handler is refreshed for the document: file:///D:/RestAPI/StudentManagement/src/main/java/com/info/SecurityConfig.java
