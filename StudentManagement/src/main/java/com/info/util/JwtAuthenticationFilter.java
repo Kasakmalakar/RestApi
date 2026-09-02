@@ -32,14 +32,14 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter{
 			throws ServletException, IOException {
 		 String authHeader = request.getHeader("Authorization");
 
-	        // No JWT -> continue
-	        // This allows /user/register and /user/login to work
+	    
+	        
 	        if (authHeader == null || !authHeader.startsWith("Bearer ")) {
 	            filterChain.doFilter(request, response);
 	            return;
 	        }
 
-	        // Remove "Bearer "
+	        
 	        String token = authHeader.substring(7);
 
 	        try {
@@ -49,18 +49,17 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter{
 	             if (email != null &&
 	                 SecurityContextHolder.getContext().getAuthentication() == null) {
 
-	                 // Load user from database
+	                 
 	                 UserDetails userDetails =
 	                         detailService.loadUserByUsername(email);
 
-	                 // Validate JWT
+	                 
 	                 jwt.validateToken(token);
 
 	                 
 	                 
 
-	                 // Create authentication using authorities
-	                 // returned by UserDetailsService
+	                 
 	                 UsernamePasswordAuthenticationToken authentication =
 	                         new UsernamePasswordAuthenticationToken(
 	                                 userDetails,
@@ -73,7 +72,7 @@ public class JwtAuthenticationFilter extends OncePerRequestFilter{
 	                                 .buildDetails(request)
 	                 );
 
-	                 // Store authentication
+	                 
 	                 SecurityContextHolder.getContext()
 	                         .setAuthentication(authentication);
 	             }
